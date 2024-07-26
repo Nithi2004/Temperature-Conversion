@@ -1,0 +1,45 @@
+body{
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    background-color: rgba(188, 218, 221, 0.611);
+
+}
+h1{
+    text-decoration: dotted;
+    text-wrap:stable ;
+    text-shadow: 3cap;
+    color: rgb(34, 0, 255);
+}
+form{
+    background-color: whitesmoke;
+    display: inline-block ;
+    margin: auto;
+    max-width: 350px;
+    padding: 23px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px;
+}
+#ip{
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(229, 6, 17);
+    color: WHITE;
+    border-radius: 3PX;
+    padding: 5PX 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(255, 0, 4);
+    transition: ;
+}
+p{
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
